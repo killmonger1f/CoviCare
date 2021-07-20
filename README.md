@@ -1,4 +1,4 @@
-# movieapp
+# CoviCare
 
 A new Flutter project.
 
